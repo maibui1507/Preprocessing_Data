@@ -1,4 +1,6 @@
 # Preprocessing_Data
+This dataset is ASVspoof 2021 DF eval with only **spoof** files
+
 Label of **data['type']**:
 
 (0, ('high_m4a', 'spoof', 'A07', 'notrim', 'traditional_vocoder'))  
