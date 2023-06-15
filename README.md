@@ -1,7 +1,5 @@
 # Preprocessing_Data
-Preprocessing and handling data before training
-
-Label of data['type']:
+Label of **data['type']**:
 
 (0, ('high_m4a', 'spoof', 'A07', 'notrim', 'traditional_vocoder'))  
 (1, ('high_m4a', 'spoof', 'A07', 'trim', 'traditional_vocoder'))  
